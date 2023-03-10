@@ -1,5 +1,0 @@
-dash==2.8.1
-pandas
-numpy
-plotly
-gunicorn
