@@ -7,7 +7,7 @@ import dash_core_components as dcc
 from dash import html
 
 app = dash.Dash()
-
+server = app.server
 
 df = pd.read_csv('/Users/oliwierzajac/Desktop/test_hdi.csv', sep=';')
 
